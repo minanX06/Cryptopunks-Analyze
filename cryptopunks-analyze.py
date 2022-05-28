@@ -1,3 +1,4 @@
+#과학 수행평가 때 사용한 파이썬 프로그래밍 코드입니다.
 import requests
 from bs4 import BeautifulSoup
 from openpyxl import Workbook
